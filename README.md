@@ -22,12 +22,12 @@ This Bash script converts WireGuard configuration files (`.conf`) to JSON format
 
 2. Make the script file executable by running the following command:
    ```
-   chmod +x script_name.sh
+   chmod +x wireguard_to_json.sh
    ```
 
 3. Run the script using the following command:
    ```
-   ./script_name.sh
+   ./wireguard_to_json.sh
    ```
 
 4. When prompted, choose whether you want to convert all configuration files or select specific ones:
